@@ -12,4 +12,4 @@
 
 `bundle exec irb`
 
-(You should then be able to paste the commands from the client README in this interactive shell)*
+*(You should then be able to paste the commands from the client README in this interactive shell)*

@@ -1,9 +1,8 @@
 GIT
   remote: https://github.com/openregister/registers-ruby-client.git
-  revision: f9d78343574bb41a52bf2e6cc590655872d92092
-  tag: v0.3.1
+  revision: a89614647441616ab7f530d846ac88dbe0e98407
   specs:
-    registers-ruby-client (0.3.1)
+    registers-ruby-client (0.9.1)
       mini_cache (~> 1.1.0)
       rest-client (~> 2)
 
@@ -25,7 +24,7 @@ GEM
       netrc (~> 0.8)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.7.4)
+    unf_ext (0.0.7.5)
 
 PLATFORMS
   ruby
@@ -34,4 +33,4 @@ DEPENDENCIES
   registers-ruby-client!
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
